@@ -1,5 +1,4 @@
 const element = (
-  <!--Adding a sample container-->
   <div className="main-container">
     <h1 className="main-head">Super Over League</h1>
     <div className="img-container">
